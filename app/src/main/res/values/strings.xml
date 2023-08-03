@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AisleChallenge</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_number_prompt">Enter Your\nPhone Number</string>
+    <string name="enter_otp_prompt">Enter The\nOTP</string>
+    <string name="btn_continue">Continue</string>
+</resources>
